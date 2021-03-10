@@ -1,3 +1,3 @@
 # assignment1-git
 
-This program prints "Hello" and then "Step 4" and then "beep boop"
+This program prints "Hello" and then "Step 3b" and then "beep boop"
